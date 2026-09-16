@@ -5607,7 +5607,6 @@ dependencies = [
  "tauri-plugin-dialog",
  "tauri-plugin-drag",
  "tauri-plugin-opener",
- "tauri-plugin-skypie-iap",
  "tauri-plugin-window-state",
 ]
 

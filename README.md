@@ -1,6 +1,6 @@
 # Sky Pie for macOS
 
-The macOS shell of [Sky Pie](https://github.com/alilloig/skypie-core): a native
+The macOS shell of [Sky Pie](https://github.com/contract-hero/skypie-core): a native
 reading room for the HTML artifacts your tools generate, with live reload,
 peer-to-peer sharing to your own paired devices and a `skypie://` scheme.
 
@@ -12,7 +12,7 @@ context to `skypie_app::app::run`.
 ## Build
 
 ```bash
-git clone --recurse-submodules git@github.com:alilloig/skypie-desktop.git
+git clone --recurse-submodules git@github.com:contract-hero/skypie-desktop.git
 cd skypie-desktop
 ./scripts/build-app.sh
 cp -R "target/release/bundle/macos/Sky Pie.app" /Applications/
